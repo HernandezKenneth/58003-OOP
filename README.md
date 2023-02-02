@@ -1,2 +1,2 @@
 # Test
-A repositoryfor all OOP-related activities
+A repository for all OOP-related activities
