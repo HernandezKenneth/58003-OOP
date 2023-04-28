@@ -1,4 +1,3 @@
-import math
 class Circle:
     def __init__(self):
         self.radius = float(input("Enter the radius of the circle: "))
